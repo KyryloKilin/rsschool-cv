@@ -1,35 +1,36 @@
 
 **Kyrylo Kilin**
+_______________________________________________________________________________________________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/83702309/206927559-33b10cd7-8217-4b6a-941d-03ad92f51f1a.png)
--------------------------------------
+_______________________________________________________________________________________________________________________________________________________________________
 
 **Location:** Cherkasy, Ukraine
-
+_______________________________________________________________________________________________________________________________________________________________________
 **Phone:** +38063 45 4841
-
+_______________________________________________________________________________________________________________________________________________________________________
 **Email:** kirillintelegent@gmail.com
-
+_______________________________________________________________________________________________________________________________________________________________________
 **GitHub:** KyrylloKilin
-
+_______________________________________________________________________________________________________________________________________________________________________
 _About Me_
 With my experience, I believe that I can be of interest to you. Under your leadership, I am confident that I will be able to contribute to the development and prosperity of your project and your business.
 I guarantee responsibility, maximum return and work. Always ready to study and develop, including at the expense of own time.
-
+_______________________________________________________________________________________________________________________________________________________________________
 **Skills**
 canva, figma, movavi, OBS studio, salesforce etc
 basic knowledge: Node.js, Solidity, IBC, Rust
 JavaScript, HTML, CCS 
 Git
-
+_______________________________________________________________________________________________________________________________________________________________________
 **Code Examples**
 npx @bundlr-network/testnet-cli balance 1I8wv6lTXFKWhGMWTbG6XYOYCew
 cargo run --bin wallet-tool show-address --wallet ./wallet.json
 cd validator-rust && git pull origin master && docker-compose up --build -d
-
+_______________________________________________________________________________________________________________________________________________________________________
 **Courses:**
 basics of digital marketing - Google
 training course "All about blockchain, bitcoin and cryptocurrencies" Ministry of Digital Transformation
 etc
-
+_______________________________________________________________________________________________________________________________________________________________________
 **English**
 B2 
