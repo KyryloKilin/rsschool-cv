@@ -1,6 +1,6 @@
 # rsschool-cv
 
-feat
+feat feat
 
 fix
 
