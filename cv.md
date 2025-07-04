@@ -13,7 +13,7 @@ ________________________________________________________________________________
 **GitHub:** KyrylloKilin
 _______________________________________________________________________________________________________________________________________________________________________
 _About Me_
-With my experience, I believe that I can be of interest to you. Under your leadership, I am confident that I will be able to contribute to the development and prosperity of your project and your business.
+With my experience, I can be of interest to you. Under your leadership, I am confident that I will be able to contribute to the development and prosperity of your project and your business.
 I guarantee responsibility, maximum return and work. Always ready to study and develop, including at the expense of own time.
 _______________________________________________________________________________________________________________________________________________________________________
 **Skills**
