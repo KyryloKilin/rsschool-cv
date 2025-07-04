@@ -17,7 +17,7 @@ With my experience, I believe that I can be of interest to you. Under your leade
 I guarantee responsibility, maximum return and work. Always ready to study and develop, including at the expense of own time.
 _______________________________________________________________________________________________________________________________________________________________________
 **Skills**
-canva, figma, movavi, OBS studio, salesforce etc
+canva, figma, OBS studio, salesforce etc
 basic knowledge: Node.js, Solidity, IBC, Rust
 JavaScript, HTML, CCS 
 Git
