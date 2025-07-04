@@ -6,4 +6,6 @@ fix feat
 
 docs
 
+refactor
+
 https://KyryloKilin.github.io/rsschool-cv/cv
