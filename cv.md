@@ -40,7 +40,7 @@ console.log(greet('World'));``
 <p align="center">
   <a href="https://github.com/KyryloKilin" target="_blank">GitHub</a> |
   2025 |
-  <a href="[https://rs.school/js/](https://rs.school/courses/javascript-ru)" target="_blank">
+  <a href="https://rs.school/courses/javascript-ru" target="_blank">
     <img src="assets/rs-school-logo.svg" alt="RS School" height="24" style="vertical-align: middle;">
   </a>
 </p>
