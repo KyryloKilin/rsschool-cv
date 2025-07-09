@@ -1,14 +1,6 @@
 # rsschool-cv
 
-feat feat feat
 
-fix feat
-
-docs
-
-refactor
-
-https://KyryloKilin.github.io/rsschool-cv/cv
-
+[CV как markdown:](https://KyryloKilin.github.io/rsschool-cv/)
 
 [Проверить CV](https://KyryloKilin.github.io/rsschool-cv/)
